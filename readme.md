@@ -10,7 +10,7 @@
 	- Workshop:["Using Open Refine to Clean Data (with Nils Mulvad)"] (http://sched.co/7hhk) --> [tipsheet] (http://data.kaasogmulvad.dk/unv/2016/refine/refine.pdf)
 	- Lightning Talk:["Three Things You Should Keep in Mind While Collecting Your Own Data"] --> [presentation] (http://2016.uncoveringasia.org/wp-content/uploads/sites/5/2013/10/ijasia-talk-2016-Sandhya.pdf)
 - DDJ meetup (Essen, Germany), September 2016:
-	- Talk:["FOIA in the United States compared to Germany"](https://www.meetup.com/DDJ-Taskforce-NRW/events/228605095)--> [presentation] LINK TO GITHUB HERE 
+	- Talk:["FOIA in the United States compared to Germany"](https://www.meetup.com/DDJ-Taskforce-NRW/events/228605095)--> [presentation](https://github.com/sandhya-k/talk-slides/blob/master/FOIA-slides.pdf)
 - Hacks/Hackers BA Media Party (Buenos Aires, Argentina), August 2016:
 	- Keynote:["7 best practices to remember while using data in stories"] (http://schedule.mediaparty.info/event/81cq/las-7-mejores-practicas-para-recordar-usando-datos-en-historias-7-best-practices-to-remember-while-using-data-in-stories) --> [presentation](https://docs.google.com/presentation/d/1_PFJXJ_fq9DQ-Nnpnv4UvAss370BzeTH6JVMy-z_y_A/edit#slide=id.p4)
     - Workshop & Presentation: ["Cómo encontrar, usar y estructurar sus datos a su propio ritmo / How to find, use & structure your data on your beat"](http://schedule.mediaparty.info/event/817y/como-encontrar-usar-y-estructurar-sus-datos-a-su-propio-ritmo-how-to-find-use-structure-your-data-on-your-beat#) --> [presentation] (https://docs.google.com/presentation/d/1Ba5NOn7CdmHpXLW_wua3iYpNXCvGfXoEoX80smqr3JY/edit#slide=id.p4)
