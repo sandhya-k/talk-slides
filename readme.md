@@ -3,6 +3,8 @@
 This file includes all talks/workshops that I've given where I put the slides or workshop information up. Where possible, I've added in the link to the conference website with the description of the workshop/presentation as well. 
 
 ## Speaker/Trainer
+- Data journalism workshop (Berlin, Germany), January 2017:
+	- Talk: "Finding Stories using Data"---> [presentation](http://bit.ly/databerlin17)
 - DDJ meetup (Essen, Germany), November 2016: 
 	- Talk: ["How to Make Your Life Easier With 5 Spreadsheets"] (https://www.meetup.com/DDJ-Taskforce-NRW/events/228605104/) --> [presentation](http://bit.ly/essenspreadsheets)
 - Mozilla Festival (London, UK), October 28-30 2016 
