@@ -3,6 +3,8 @@
 This file includes all talks/workshops that I've given where I put the slides or workshop information up. Where possible, I've added in the link to the conference website with the description of the workshop/presentation as well. 
 
 ## Speaker/Trainer
+- NICAR 2017 (Jacksonville, Florida), March 2017:
+	- Talk: "Structuring Your Data The Right Way The First Time" ---> [presentation](https://github.com/sandhya-k/talk-slides/blob/master/structuring-data-NICAR17.pdf)
 - Data journalism workshop (Berlin, Germany), January 2017:
 	- Talk: "Finding Stories Using Data"---> [presentation](http://bit.ly/databerlin17)
 - DDJ meetup (Essen, Germany), November 2016: 
