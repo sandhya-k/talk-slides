@@ -1,6 +1,6 @@
 # Sandhya Kambhampati Talk/Workshop Slides
 
-This file includes all talks/workshops that I've given where I put the slides or workshop information up. Where possible, I've added in the link to the conference website with the description of the workshop/presentation as well. 
+This file includes all talks/workshops that I've given where I put the slides or workshop information up. Where possible, I've added in the link to the conference website with the description of the workshop/presentation as well. Note: this hasn't been updated since 2018, slides will be posted here soon! 
 
 ## Speaker/Trainer
 - DYClub Data Media Lab Wuhan University(mobile-based class), May 2017:
